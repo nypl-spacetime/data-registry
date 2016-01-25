@@ -1,0 +1,16 @@
+{
+  "name": "data-fast",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.0.7",
+    "highland": "^2.6.0",
+    "xml-stream": "^0.4.5"
+  }
+}
